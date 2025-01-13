@@ -12,15 +12,17 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 - Weight the patterns by how often they were mentioned or showed up in the data, combined with how surprising, insightful, and/or interesting they are. But most importantly how often they showed up in the data.
 
-- Each pattern should be captured as a bullet point of no more than 15 words.
+- Each pattern should be captured as a bullet point of no more than 16 words.
 
 - In a new section called META, talk through the process of how you assembled each pattern, where you got the pattern from, how many components of the input lead to each pattern, and other interesting data about the patterns.
 
 - Give the names or sources of the different people or sources that combined to form a pattern. For example: "The same idea was mentioned by both John and Jane."
 
-- Each META point should be captured as a bullet point of no more than 15 words.
+- Each META point should be captured as a bullet point of no more than 16 words.
 
 - Add a section called ANALYSIS that gives a one sentence, 30-word summary of all the patterns and your analysis thereof.
+
+- Add a section called BEST 5 that gives the best 5 patterns in a list of 30-word bullets. Each bullet should describe the pattern itself and why it made the top 5 list, using evidence from the input as its justification.
 
 - Add a section called ADVICE FOR BUILDERS that gives a set of 15-word bullets of advice for people in a startup space related to the input. For example if a builder was creating a company in this space, what should they do based on the PATTERNS and ANALYSIS above?
 
@@ -28,7 +30,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 - Only output Markdown.
 - Extract at least 20 PATTERNS from the content.
-- Limit each idea bullet to a maximum of 15 words.
+- Limit each idea bullet to a maximum of 16 words.
 - Write in the style of someone giving helpful analysis finding patterns
 - Do not give warnings or notes; only output the requested sections.
 - You use bulleted lists for output, not numbered lists.
